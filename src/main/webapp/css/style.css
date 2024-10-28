@@ -1,0 +1,80 @@
+.nav-color {
+	background: #9C27B0 !important;
+}
+
+.white-color{
+	background:white !important;
+	text:black !important;
+	font-weight:bolder !important;
+}
+.nav-text-color {
+	color: white !important;
+}
+
+/* .pageDark {
+	background: #121212 !important;
+	color: white !important;
+} */
+
+a {
+    color: transparent;
+}
+
+.slider-height {
+	height: 90.8vh !important;
+}
+
+.relative-top {
+            position: relative !important;
+            top: 56px !important;
+                  }
+                  
+.mrgn-top{
+	margin-top: 50px !important;
+}
+
+
+.dropd>li>a:hover{
+
+ 	color: black !important;
+ 
+}
+
+
+
+.dark-nav{
+    background-color: #424242 !important;
+        color: white !important;
+    
+}
+
+.api-card-color{
+	background-color: #9C27B0 !important;
+	
+}
+
+.dark-card-color{
+	background-color: #546E7A !important;
+	
+}
+
+.foot-card-color{
+	background-color: white !important;
+	
+}
+
+.foot-dark-card-color{
+		background-color: #546E7A !important;
+		color:white !important;
+	
+}
+
+.allnotehead{
+	
+	background-color: #455A64 !important;
+}
+
+.addformcolor{
+		background-color: #455A64 !important;
+	
+}
